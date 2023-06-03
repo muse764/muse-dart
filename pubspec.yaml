@@ -1,12 +1,11 @@
 name: muse_api
-description: A starting point for Dart libraries or applications.
+description: api wrapper for muse.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/double764/muse-dart
 
 environment:
   sdk: ^3.0.1
 
-# Add regular dependencies here.
 dependencies:
   built_collection: ^5.1.1
   built_value: ^8.6.0
